@@ -1,0 +1,1 @@
+# Design-a-CNN-model-for-MiniPlaces-Dataset
